@@ -2,38 +2,27 @@
 👋 Oi, eu sou a @gabilopes1!
 
 # Sobre Mim
-Sou estudante de Ciência da Computação, apaixonada por tecnologia e inovação. Busco constantemente aprender e me desenvolver na área.
+Sou estudante de Ciência da Computação, apaixonada por tecnologia. Busco aprender e me desenvolver na área, cada dia mais.
 
 # Interesses
 Desenvolvimento de software
 Inteligência artificial
 Análise de dados
 Design de interfaces
-
-
-# Aprendizado Atual
-Atualmente, estou aprendendo sobre:
-
 Algoritmos e estruturas de dados
-Desenvolvimento web (HTML, CSS, JavaScript)
+Desenvolvimento web (Python, C++, HTML, CSS, JavaScript)
 Python para análise de dados
 
 
-# Colaborações
-Estou aberta a colaborações em:
-
-Projetos de código aberto
+# Projetos de código aberto
 Iniciativas de tecnologia para a comunidade
 Qualquer oportunidade de aprendizado e troca de conhecimento
-
-
-
 
 #Pronomes
 Meus pronomes são ela/dela.
 
 #Curiosidade
-Uma curiosidade sobre mim: adoro jogos de quebra-cabeça e estou sempre em busca de novos desafios para resolver!
+Uma curiosidade sobre mim: adoro jogos de carros e estou sempre em busca de novos interesses!
 
 <!---
 gabilopes1/gabilopes1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
