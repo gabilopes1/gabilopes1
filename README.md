@@ -18,10 +18,10 @@ Python para análise de dados
 Iniciativas de tecnologia para a comunidade
 Qualquer oportunidade de aprendizado e troca de conhecimento
 
-#Pronomes
+# Pronomes
 Meus pronomes são ela/dela.
 
-#Curiosidade
+# Curiosidade
 Uma curiosidade sobre mim: adoro jogos de carros e estou sempre em busca de novos interesses!
 
 <!---
