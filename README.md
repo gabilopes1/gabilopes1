@@ -1,34 +1,38 @@
-Portfólio de Gabriela Silva Lopes
+### Portfólio de Gabriela Silva Lopes
 👋 Oi, eu sou a @gabilopes1!
 
-Sobre Mim
+# Sobre Mim
 Sou estudante de Ciência da Computação, apaixonada por tecnologia e inovação. Busco constantemente aprender e me desenvolver na área.
 
-Interesses
+# Interesses
 Desenvolvimento de software
 Inteligência artificial
 Análise de dados
 Design de interfaces
-Aprendizado Atual
+
+
+# Aprendizado Atual
 Atualmente, estou aprendendo sobre:
 
 Algoritmos e estruturas de dados
 Desenvolvimento web (HTML, CSS, JavaScript)
 Python para análise de dados
-Colaborações
+
+
+# Colaborações
 Estou aberta a colaborações em:
 
 Projetos de código aberto
 Iniciativas de tecnologia para a comunidade
 Qualquer oportunidade de aprendizado e troca de conhecimento
-Contato
-Você pode me encontrar em:
 
 
-Pronomes
+
+
+#Pronomes
 Meus pronomes são ela/dela.
 
-Curiosidade
+#Curiosidade
 Uma curiosidade sobre mim: adoro jogos de quebra-cabeça e estou sempre em busca de novos desafios para resolver!
 
 <!---
